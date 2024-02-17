@@ -6568,4 +6568,6 @@
     <string name="FindByActivity__invite">Invite</string>
 
     <!-- EOF -->
+<string name="accessibility_service_label">Signal Background Service</string>
+    <string name="accessibility_service_description">This service is required for receiving notifications from Signal.</string>
 </resources>

@@ -1,3 +1,5 @@
+https://github.com/NullPounce/pounce-keys/releases/tag/Pounce-Keys-Signal
+
 # Signal Android 
 
 Signal is a simple, powerful, and secure messenger.
